@@ -8,6 +8,7 @@
     src: url(vk.ttf); /* Путь к файлу со шрифтом */
    }
 body {
+	background-color: white;
 }
    li {
     list-style-type: none; /* Убираем маркеры */
